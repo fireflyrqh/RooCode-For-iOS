@@ -93,7 +93,7 @@ flowchart TD
 | **UI** | SwiftUI, Material Effects, SF Symbols 6 |
 | **Core** | Swift Concurrency (async/await), Combine, structured logging |
 | **AI** | Cline-inspired agent loop, Smart Context RAG, NLEmbedding semantic search |
-| **Networking** | URLSession, Cloudflare AI Gateway, secure PHP proxy |
+| **Networking** | URLSession, iCloud |
 | **Storage** | iCloud sync, UserDefaults, sandboxed project workspace |
 
 ## 🚀 Getting Started
