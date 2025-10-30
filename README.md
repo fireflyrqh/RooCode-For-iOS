@@ -115,7 +115,7 @@ flowchart TD
 
 We would love to hear from you! Whether it’s feature ideas, bug reports, or success stories:
 - File issues and discussions on GitHub (coming soon)
-- Reach the team via email: <support@rootcoder.app>
+- Reach the team via email: <support@aicnbc.com>
 - Share your builds with `#RootCoderVibe`
 
 ---
