@@ -3,7 +3,7 @@
 # RootCoder-Vibe Coding
 
 <p align="center">
-  <img src="https://aisiri.cn/wp-content/uploads/2025/10/1024-LM-studio-logo.png" alt="RootCoder-Vibe Coding" width="180" />
+  <img src="https://aisiri.cn/wp-content/uploads/2025/10/VB.png" alt="RootCoder-Vibe Coding" width="180" />
 </p>
 
 <p align="center">
