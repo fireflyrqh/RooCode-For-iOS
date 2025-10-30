@@ -1,4 +1,4 @@
-# RooCode-For-iOS
+# RooCode For iOS  iPhone/iPad vibe Coding
 
 # RootCoder-Vibe Coding
 
