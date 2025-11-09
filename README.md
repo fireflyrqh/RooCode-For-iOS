@@ -1,6 +1,7 @@
 # RooCode For iOS  iPhone/iPad vibe Coding
+# Claude Code For iOS
+# RootCoder-Vibe Coding、
 
-# RootCoder-Vibe Coding
 
 <p align="center">
   <img src="https://aisiri.cn/wp-content/uploads/2025/10/VB.png" alt="RootCoder-Vibe Coding" width="180" />
